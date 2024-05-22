@@ -1,0 +1,1 @@
+target_sources(nes PRIVATE cpu.cpp cpu.hpp regbit.hpp)
